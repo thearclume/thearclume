@@ -1,43 +1,48 @@
 # ARCLUME
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=190&section=header&text=ARCLUME&fontSize=48&fontColor=e6edf3&fontAlignY=40&desc=Building%20beyond%20the%20obvious.&descSize=16&descAlignY=62&animation=fadeIn" width="100%" />
+  <sub>AN INDEPENDENT DIGITAL UNIVERSE</sub>
 </p>
 
 <p align="center">
-  <b>Developer · Founder · Curious by default</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nareddy-manutej-reddy-349917383/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/thearclume">Connect</a>
+  <b>Building beyond the obvious.</b>
 </p>
 
 ---
 
-### A little about me
+I build things, explore ideas, and document what I discover.
 
-I turn ideas into things that work.
+Developer by practice. Founder by ambition. Curious by default.
 
-Interested in software, technology, systems, and the spaces between them.
+---
 
-I believe the best way to understand something is to build it.
+**Currently exploring**
 
-### The toolkit
+`Software` · `Systems` · `Technology` · `Ideas`
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,ts,react,nextjs,nodejs,git,github&perline=9" />
+  <a href="https://github.com/thearclume">GitHub</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/nareddy-manutej-reddy-349917383/">LinkedIn</a>
 </p>
+
+---
 
 ### Digital footprint
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thearclume&show_icons=true&hide_border=true&theme=transparent&title_color=8b949e&icon_color=8b949e&text_color=8b949e" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thearclume&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=8b949e&icon_color=8b949e&text_color=8b949e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearclume&layout=compact&hide_border=true&theme=transparent&title_color=8b949e&text_color=8b949e" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thearclume&bg_color=00000000&color=8b949e&line=8b949e&point=c9d1d9&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>BUILDING THINGS. FOLLOWING CURIOSITY. LEAVING A TRACE.</sub>
+  <sub>BUILDING · EXPLORING · DOCUMENTING</sub>
 </p>
