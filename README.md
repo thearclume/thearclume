@@ -18,7 +18,7 @@ Developer by practice. Founder by ambition. Curious by default.
 
 **Currently exploring**
 
-`Software` · `Systems` · `Technology` · `Ideas`
+`Software` · `Systems` · `Technology` · `Ideas` . `Deep-Tech`
 
 ---
 
