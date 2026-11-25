@@ -27,6 +27,8 @@ Developer by practice. Founder by ambition. Curious by default.
   <a href="https://github.com/thearclume">GitHub</a>
   &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/nareddy-manutej-reddy-349917383/">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="https://x.com/thearclume">X</a>
 </p>
 
 ---
