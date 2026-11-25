@@ -9,7 +9,8 @@
 </p>
 
 ---
-I'm Manutej
+I'm Manutej.
+
 I build things, explore ideas, and document what I discover.
 
 Developer by practice. Founder by ambition. Curious by default.
