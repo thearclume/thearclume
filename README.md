@@ -37,7 +37,12 @@ Developer by practice. Founder by ambition. Curious by default.
 ### Digital footprint
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thearclume&bg_color=00000000&color=8b949e&line=8b949e&point=c9d1d9&area=true&hide_border=true" width="100%" />
+  <a href="https://github.com/thearclume">
+    <img src="https://github-readme-stats.vercel.app/api?username=thearclume&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=c9d1d9" width="48%" />
+  </a>
+  <a href="https://github.com/thearclume">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearclume&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e" width="48%" />
+  </a>
 </p>
 
 ---
