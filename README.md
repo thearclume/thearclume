@@ -9,6 +9,7 @@
 </p>
 
 ---
+
 I'm Manutej.
 
 I build things, explore ideas, and document what I discover.
@@ -17,9 +18,9 @@ Developer by practice. Founder by ambition. Curious by default.
 
 ---
 
-**Currently exploring**
+### Currently exploring
 
-`Software` · `Systems` · `Technology` · `Ideas` . `Deep-Tech`
+`Software` · `Systems` · `Technology` · `Ideas` · `Deep-Tech`
 
 ---
 
